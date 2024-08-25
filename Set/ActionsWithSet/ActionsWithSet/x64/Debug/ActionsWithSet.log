@@ -1,0 +1,3 @@
+﻿  ActionsWithSet.cpp
+C:\Users\iovch\source\repos\ActionsWithSet\ActionsWithSet\ActionsWithSet.cpp(19,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ActionsWithSet.vcxproj -> C:\Users\iovch\source\repos\ActionsWithSet\x64\Debug\ActionsWithSet.exe
